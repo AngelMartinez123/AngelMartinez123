@@ -37,6 +37,15 @@ automation, validation tooling, and shared Cursor/Codex workflow guidance. The
 project demonstrates how I structure operational tooling while keeping live data,
 credentials, and company-specific infrastructure outside source control.
 
+Recent examples from my August–October 2026 work:
+
+- [Explainable entity resolution](https://github.com/AngelMartinez123/cs-data-ops/tree/main/entity_resolution):
+  evidence scoring, identifier conflicts, and branch review using synthetic tests.
+- [Native Excel template generation](https://github.com/AngelMartinez123/cs-data-ops/blob/main/docs/native-company-template.md):
+  preserve workbook package parts, styles, and text postal codes during import preparation.
+- [Validated cloud handoff](https://github.com/AngelMartinez123/cs-data-ops/blob/main/docs/validated-cloud-handoff.md):
+  a design case study in batch provenance, duplicate delivery, and output verification.
+
 ## Current interests
 
 - Reliable data-pipeline and migration validation
